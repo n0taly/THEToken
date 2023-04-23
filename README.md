@@ -1,3 +1,4 @@
+# THEToken
 This Solidity program is a simple "Create a Token", a token is a digital asset that can be used on a blockchain network without the need for intermediaries or centralized authorities. A contract is a set of rules that define how the token works, and a mapping structure is a method of storing information about token balances and ownership. These tools, when used together, provide a transparent and secure method of exchanging value on a blockchain network, potentially opening up new avenues for innovation and growth.
 
 ## Description
